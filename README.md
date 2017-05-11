@@ -9,24 +9,24 @@ Term 2 task for Syntax Coding upstairs group.
 
 ## Features to be Implemented
 ### Minimum Viable Product:
-[ ] Site exists – page layout, etc.
-[ ] Send messages
-[ ] See messages (and who sent them) when you refresh the page
-[ ] Receive messages in real-time
+- [ ] Site exists – page layout, etc.
+- [ ] Send messages
+- [ ] See messages (and who sent them) when you refresh the page
+- [ ] Receive messages in real-time
 
 ### Extension:
-[ ] Look pretty as
-[ ] Message rate limiting (no empty messages, limit to frequency)
-[ ] Multiple colours for text
-[ ] Multiple rooms
-[ ] Send images as ASCII art
+- [ ] Look pretty as
+- [ ] Message rate limiting (no empty messages, limit to frequency)
+- [ ] Multiple colours for text
+- [ ] Multiple rooms
+- [ ] Send images as ASCII art
 
 ## Development Milestones
-[ ] 1. Basic static website layout (HTML5/CSS)
-[ ] 2. Routes, View Controller, import Layouts
-[ ] 3. Back-end DB structure, Models
-[ ] 4. Messaging Controller – Send
-[ ] 5. AJAX Send message
-[ ] 6. Messaging Controller – Receive
-[ ] 7. AJAX Receive message
-[ ] 8. Run AJAX Receive on interval
+1. [ ] Basic static website layout (HTML5/CSS)
+1. [ ] Routes, View Controller, import Layouts
+1. [ ] Back-end DB structure, Models
+1. [ ] Messaging Controller – Send
+1. [ ] AJAX Send message
+1. [ ] Messaging Controller – Receive
+1. [ ] AJAX Receive message
+1. [ ] Run AJAX Receive on interval
